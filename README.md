@@ -4,3 +4,4 @@ First public commit
 I tested this feature and it works well, thanks for the update 👍
 Is there any plan to add more examples in the documentation?
 I faced a small issue during setup — any workaround available?
+Great improvement compared to the previous version.
