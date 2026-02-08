@@ -6,3 +6,4 @@ Is there any plan to add more examples in the documentation?
 I faced a small issue during setup — any workaround available?
 Great improvement compared to the previous version.
 Can you clarify how this function handles edge cases?
+I think adding a quick start guide would help beginners.
