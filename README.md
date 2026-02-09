@@ -11,3 +11,4 @@ hello dear all base users, how much comment don
 i start some days ago and i 26 public comment done
 this repo my first comennt is my secend repo,,, 
 maybe 100 trx is good for base airdrop
+deploye contrect 5 or 10??????
